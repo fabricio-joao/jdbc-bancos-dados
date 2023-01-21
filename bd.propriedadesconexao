@@ -1,0 +1,4 @@
+user=novo
+password=dF7* Pm *2r
+bdurl=jdbc:mysql://localhost:3306/bancodeteste
+useUSSL=false
